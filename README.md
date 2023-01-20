@@ -2,7 +2,7 @@
 
 Ducksms
 - API version: 1.0.0
-  - Build date: 2023-01-20T08:27:51.507139Z[Etc/UTC]
+  - Build date: 2023-01-20T08:29:01.252686Z[Etc/UTC]
 
 Ducksms is a leading SMS messaging service provider offering one-way SMS communication services from your internet enabled computer. The API allow you to directly communicate and manage a SMS with our SMS gateway system.
 
