@@ -28,7 +28,7 @@ import java.util.List;
 /**
  * SmsSchema
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2023-01-20T08:24:59.680354Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2023-01-20T08:27:51.507139Z[Etc/UTC]")
 public class SmsSchema {
   /**
    * Preview the sms information
